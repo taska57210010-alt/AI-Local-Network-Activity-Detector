@@ -1,4 +1,4 @@
-# 🛡️ AI Local Network Intrusion Detection System (ALIDS)
+# 🛡️ AI Local Network Activity Detector (ALIDS)
 
 A Python-based network intrusion detection system with clean architecture, real-time packet capture, feature extraction, and rule-based attack detection.
 
